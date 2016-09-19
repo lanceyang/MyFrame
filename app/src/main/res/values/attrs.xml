@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TagLayout">
+        <attr name="horizontal_space" format="dimension"/>
+        <attr name="vertical_space" format="dimension"/>
+        <attr name="can_selected" format="integer"/>
+    </declare-styleable>
+</resources>
